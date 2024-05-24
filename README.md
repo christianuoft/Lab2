@@ -24,7 +24,7 @@ can make pull requests to that repo during the Task 3 activity during the lab.
 During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
 If you miss the lab and work on this after, you should use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [X] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - Important: make sure to uncheck the option to only fork the main branch, as the repo
   contains some branches you will use in this lab.
 
